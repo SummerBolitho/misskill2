@@ -96,7 +96,7 @@ function App() {
               </div>
             </div>
           </div> */}
-
+          {/* eslint-disable */}
           <a
             className="bit-widget-initializer"
             data-artist-name="id_15250933"
@@ -169,7 +169,7 @@ function App() {
             data-bit-logo-position=""
             data-bit-logo-color="#CCCCCC"
           ></a>
-
+          {/* eslint-enable */}
           <div className="grid grid-cols-3 text-white">
             <div className="col"></div>
             <div className="col">
